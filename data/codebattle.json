@@ -1,0 +1,2942 @@
+{
+  "users": [
+    {
+      "id": "user_admin_01",
+      "email": "admin@codequest.dev",
+      "passwordHash": "85e6186a760181a537ee75ca95a34c58b8ae647971eb5c3ba9facd5a7fa96fc0e7b7dd1cab998ea8448c90f3f9134d4bf6fb3b8e0c7cf03a07d39fc4302695bb",
+      "salt": "67435877d5f1b986a86a3bbfdd04d262",
+      "fullName": "Master Admin",
+      "role": "admin",
+      "organization": "CODEQUEST HQ",
+      "phoneNumber": "+1-555-0100",
+      "createdAt": "2026-10-01T08:00:00.000Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user_part_01",
+      "email": "rahul@codequest.dev",
+      "passwordHash": "ad161b8b5660f12001a4125927c58397eadf405f9c934ea64dea24a63eb359a0e9147ddb61ba8dcbfc39057395ea3227af31da740d6f77191c54ce17e1542ebc",
+      "salt": "24cf4ed597085cb5902acf5675f3d5b5",
+      "fullName": "Rahul Sharma",
+      "role": "participant",
+      "organization": "Indian Institute of Technology, Bombay",
+      "phoneNumber": "+91-98765-43210",
+      "createdAt": "2026-10-02T10:15:00.000Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user_part_02",
+      "email": "priya@codequest.dev",
+      "passwordHash": "ad161b8b5660f12001a4125927c58397eadf405f9c934ea64dea24a63eb359a0e9147ddb61ba8dcbfc39057395ea3227af31da740d6f77191c54ce17e1542ebc",
+      "salt": "24cf4ed597085cb5902acf5675f3d5b5",
+      "fullName": "Priya Patel",
+      "role": "participant",
+      "organization": "BITS Pilani",
+      "phoneNumber": "+91-98765-43211",
+      "createdAt": "2026-10-02T11:20:00.000Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user_part_03",
+      "email": "aman@codequest.dev",
+      "passwordHash": "ad161b8b5660f12001a4125927c58397eadf405f9c934ea64dea24a63eb359a0e9147ddb61ba8dcbfc39057395ea3227af31da740d6f77191c54ce17e1542ebc",
+      "salt": "24cf4ed597085cb5902acf5675f3d5b5",
+      "fullName": "Aman Verma",
+      "role": "participant",
+      "organization": "Stanford University",
+      "phoneNumber": "+1-650-555-0199",
+      "createdAt": "2026-10-02T12:05:00.000Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user_part_04",
+      "email": "nitesh@codequest.dev",
+      "passwordHash": "ad161b8b5660f12001a4125927c58397eadf405f9c934ea64dea24a63eb359a0e9147ddb61ba8dcbfc39057395ea3227af31da740d6f77191c54ce17e1542ebc",
+      "salt": "24cf4ed597085cb5902acf5675f3d5b5",
+      "fullName": "Nitesh Kumar",
+      "role": "participant",
+      "organization": "National Institute of Technology",
+      "phoneNumber": "+91-98765-43213",
+      "createdAt": "2026-10-02T13:30:00.000Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user_part_demo",
+      "email": "alex@codequest.dev",
+      "passwordHash": "ad161b8b5660f12001a4125927c58397eadf405f9c934ea64dea24a63eb359a0e9147ddb61ba8dcbfc39057395ea3227af31da740d6f77191c54ce17e1542ebc",
+      "salt": "24cf4ed597085cb5902acf5675f3d5b5",
+      "fullName": "Alex Chen",
+      "role": "participant",
+      "organization": "MIT Computer Science & AI Lab",
+      "phoneNumber": "+1-617-555-0144",
+      "createdAt": "2026-10-03T09:00:00.000Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user_1792301660769_9m5w",
+      "email": "niteshkumar20022008@gmail.com",
+      "passwordHash": "4c6057e259bf3e4964e997c08455d51c6771814a1a4382672b30e01fd638e42c1e6772ef2f56a0edb98a86afbcc5598be2ef68425627dc0271f2cd07daf6bc04",
+      "salt": "910dd8e32b37e7e4e6623e3876a2f39f",
+      "fullName": "nm",
+      "role": "participant",
+      "organization": "ewhfuh",
+      "phoneNumber": "",
+      "createdAt": "2026-10-18T05:34:20.769Z",
+      "avatarUrl": "https://api.dicebear.com/7.x/identicon/svg?seed=niteshkumar20022008%40gmail.com"
+    },
+    {
+      "id": "user_1792303323209_zdcs",
+      "email": "niteshkumar282008@gmail.com",
+      "passwordHash": "b4b51d68026d3a2f1f2c03851d86e624f988ad2cfa4eb7342aec9fadcd97f7f6f7d3f825397fe7c5b1ad7b391be181a79103fa217df90809ff23452e29ddc157",
+      "salt": "3b2da8fea83849d934262617049025bf",
+      "fullName": "Nitesh Kumar",
+      "role": "participant",
+      "organization": "DYPCET",
+      "phoneNumber": "",
+      "createdAt": "2026-10-18T06:02:03.209Z",
+      "avatarUrl": "https://api.dicebear.com/7.x/identicon/svg?seed=niteshkumar282008%40gmail.com"
+    },
+    {
+      "id": "user_1792308424114_ypwn",
+      "email": "shivamnikam6969@gmail.com",
+      "passwordHash": "ca15ff7530e1125eeeb5e4ef90ead7b3aa6dbfa8fead4f7e39f2c5c6a54b76d2c1a4c2e3584bae7606598ecac472e4e4fe4d092e146fbafe3324729032ebf769",
+      "salt": "770b5cf5de6149be9a0550f481a47f12",
+      "fullName": "maya lin",
+      "role": "participant",
+      "organization": "IIT karachi",
+      "phoneNumber": "123456789",
+      "createdAt": "2026-10-18T07:27:04.114Z",
+      "avatarUrl": "https://api.dicebear.com/7.x/identicon/svg?seed=shivamnikam6969%40gmail.com"
+    }
+  ],
+  "rounds": [
+    {
+      "id": "round_01_quiz",
+      "roundNumber": 1,
+      "name": "Quiz Battle",
+      "type": "quiz",
+      "description": "Rapid-fire algorithmic, complexity, and systems knowledge test. 10 MCQs in 15 minutes.",
+      "instructions": "Each correct answer earns 10 points. Wrong answers incur a 2-point penalty. Skipped questions award 0 points. Server time is strictly enforced.",
+      "startTime": "2026-10-17T00:00:00.000Z",
+      "endTime": "2026-10-20T23:59:59.000Z",
+      "durationMinutes": 15,
+      "maxScore": 100,
+      "status": "active",
+      "qualificationRule": {
+        "type": "top_n",
+        "value": 50
+      },
+      "isResultsPublished": true,
+      "proctoringSettings": {
+        "cameraRequired": true,
+        "microphoneRequired": true,
+        "fullscreenRequired": true,
+        "tabMonitoring": true,
+        "copyRestriction": true,
+        "pasteRestriction": true,
+        "cutRestriction": true,
+        "snapshotsEnabled": true,
+        "snapshotIntervalSeconds": 60,
+        "questionRandomization": true,
+        "codeSimilarityCheck": true,
+        "maxTabWarnings": 3,
+        "violationAction": "warning"
+      }
+    },
+    {
+      "id": "round_02_coding",
+      "roundNumber": 2,
+      "name": "Coding Battle",
+      "type": "coding",
+      "description": "Solve real-world algorithmic problems. Write clean code and pass hidden test cases.",
+      "instructions": "Write efficient code in Python, JavaScript, or C++. Code runs in an isolated sandbox. Run Code tests sample cases; Submit Code evaluates all hidden test cases.",
+      "startTime": "2026-10-17T00:00:00.000Z",
+      "endTime": "2026-10-21T23:59:59.000Z",
+      "durationMinutes": 45,
+      "maxScore": 200,
+      "status": "active",
+      "qualificationRule": {
+        "type": "top_n",
+        "value": 25
+      },
+      "isResultsPublished": true,
+      "proctoringSettings": {
+        "cameraRequired": true,
+        "microphoneRequired": true,
+        "fullscreenRequired": true,
+        "tabMonitoring": true,
+        "copyRestriction": true,
+        "pasteRestriction": true,
+        "cutRestriction": true,
+        "snapshotsEnabled": true,
+        "snapshotIntervalSeconds": 60,
+        "questionRandomization": true,
+        "codeSimilarityCheck": true,
+        "maxTabWarnings": 3,
+        "violationAction": "warning"
+      }
+    },
+    {
+      "id": "round_03_debugging",
+      "roundNumber": 3,
+      "name": "Debugging Battle",
+      "type": "debugging",
+      "description": "Identify insidious bugs, off-by-one errors, memory faults, and broken logic in legacy code snippets.",
+      "instructions": "Read the buggy code, find the edge case bugs, repair the implementation, and pass all verification checks.",
+      "startTime": "2026-10-17T00:00:00.000Z",
+      "endTime": "2026-10-22T23:59:59.000Z",
+      "durationMinutes": 30,
+      "maxScore": 200,
+      "status": "active",
+      "qualificationRule": {
+        "type": "top_n",
+        "value": 10
+      },
+      "isResultsPublished": true,
+      "proctoringSettings": {
+        "cameraRequired": true,
+        "microphoneRequired": true,
+        "fullscreenRequired": true,
+        "tabMonitoring": true,
+        "copyRestriction": true,
+        "pasteRestriction": true,
+        "cutRestriction": true,
+        "snapshotsEnabled": true,
+        "snapshotIntervalSeconds": 60,
+        "questionRandomization": true,
+        "codeSimilarityCheck": true,
+        "maxTabWarnings": 3,
+        "violationAction": "warning"
+      }
+    },
+    {
+      "id": "round_04_final",
+      "roundNumber": 4,
+      "name": "Final Battle",
+      "type": "final",
+      "description": "The championship showdown. Advanced graph algorithms, dynamic programming, and optimization problems.",
+      "instructions": "Exclusive to Round 3 qualifiers. Complex constraints and high point bonuses. Prove your title as Hackathon Champion.",
+      "startTime": "2026-10-17T00:00:00.000Z",
+      "endTime": "2026-10-23T23:59:59.000Z",
+      "durationMinutes": 60,
+      "maxScore": 300,
+      "status": "active",
+      "qualificationRule": {
+        "type": "top_n",
+        "value": 3
+      },
+      "isResultsPublished": false,
+      "proctoringSettings": {
+        "cameraRequired": true,
+        "microphoneRequired": true,
+        "fullscreenRequired": true,
+        "tabMonitoring": true,
+        "copyRestriction": true,
+        "pasteRestriction": true,
+        "cutRestriction": true,
+        "snapshotsEnabled": true,
+        "snapshotIntervalSeconds": 60,
+        "questionRandomization": true,
+        "codeSimilarityCheck": true,
+        "maxTabWarnings": 3,
+        "violationAction": "warning"
+      }
+    }
+  ],
+  "quizQuestions": [
+    {
+      "id": "q1",
+      "roundId": "round_01_quiz",
+      "questionText": "What is the tight worst-case time complexity of finding the median in an unsorted array of size N using the Quickselect algorithm?",
+      "difficulty": "medium",
+      "points": 10,
+      "negativeMarking": 2,
+      "category": "Algorithms",
+      "correctOptionKey": "C",
+      "explanation": "Quickselect has an expected O(N) average time, but its worst case (when bad pivots are chosen) degrades to O(N^2). With Median-of-Medians pivot selection it guarantees O(N), but standard Quickselect worst-case is O(N^2).",
+      "options": [
+        {
+          "id": "opt_1_a",
+          "questionId": "q1",
+          "optionKey": "A",
+          "optionText": "O(log N)"
+        },
+        {
+          "id": "opt_1_b",
+          "questionId": "q1",
+          "optionKey": "B",
+          "optionText": "O(N log N)"
+        },
+        {
+          "id": "opt_1_c",
+          "questionId": "q1",
+          "optionKey": "C",
+          "optionText": "O(N^2)"
+        },
+        {
+          "id": "opt_1_d",
+          "questionId": "q1",
+          "optionKey": "D",
+          "optionText": "O(1)"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "roundId": "round_01_quiz",
+      "questionText": "In a B+ Tree index with order M, which of the following statements is TRUE regarding leaf nodes?",
+      "difficulty": "hard",
+      "points": 10,
+      "negativeMarking": 2,
+      "category": "Databases",
+      "correctOptionKey": "B",
+      "explanation": "In a B+ Tree, leaf nodes contain all the actual data records (or pointers to them) and are linked together in a doubly or singly linked list for efficient sequential range queries.",
+      "options": [
+        {
+          "id": "opt_2_a",
+          "questionId": "q2",
+          "optionKey": "A",
+          "optionText": "Leaf nodes never contain satellite data pointers"
+        },
+        {
+          "id": "opt_2_b",
+          "questionId": "q2",
+          "optionKey": "B",
+          "optionText": "Leaf nodes are linked as a linked list for fast range scans"
+        },
+        {
+          "id": "opt_2_c",
+          "questionId": "q2",
+          "optionKey": "C",
+          "optionText": "Internal nodes store copies of all leaf node keys"
+        },
+        {
+          "id": "opt_2_d",
+          "questionId": "q2",
+          "optionKey": "D",
+          "optionText": "Leaves must always have exactly M children"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "roundId": "round_01_quiz",
+      "questionText": "In Python, what is the time complexity of checking `x in s` where `s` is a `set` containing N hashable elements on average?",
+      "difficulty": "easy",
+      "points": 10,
+      "negativeMarking": 2,
+      "category": "Languages",
+      "correctOptionKey": "A",
+      "explanation": "Python sets are implemented as hash tables with open addressing. Average lookup complexity is O(1).",
+      "options": [
+        {
+          "id": "opt_3_a",
+          "questionId": "q3",
+          "optionKey": "A",
+          "optionText": "O(1)"
+        },
+        {
+          "id": "opt_3_b",
+          "questionId": "q3",
+          "optionKey": "B",
+          "optionText": "O(log N)"
+        },
+        {
+          "id": "opt_3_c",
+          "questionId": "q3",
+          "optionKey": "C",
+          "optionText": "O(N)"
+        },
+        {
+          "id": "opt_3_d",
+          "questionId": "q3",
+          "optionKey": "D",
+          "optionText": "O(N log N)"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "roundId": "round_01_quiz",
+      "questionText": "Which graph traversal algorithm uses a Priority Queue (Min-Heap) and relaxes edge weights to find single-source shortest paths in non-negative weighted graphs?",
+      "difficulty": "easy",
+      "points": 10,
+      "negativeMarking": 2,
+      "category": "Algorithms",
+      "correctOptionKey": "D",
+      "explanation": "Dijkstra's algorithm uses a priority queue to iteratively extract the closest unvisited vertex and relax outgoing edges. Floyd-Warshall is all-pairs DP, Bellman-Ford handles negative weights via V-1 passes.",
+      "options": [
+        {
+          "id": "opt_4_a",
+          "questionId": "q4",
+          "optionKey": "A",
+          "optionText": "Floyd-Warshall Algorithm"
+        },
+        {
+          "id": "opt_4_b",
+          "questionId": "q4",
+          "optionKey": "B",
+          "optionText": "Bellman-Ford Algorithm"
+        },
+        {
+          "id": "opt_4_c",
+          "questionId": "q4",
+          "optionKey": "C",
+          "optionText": "Kruskal's Algorithm"
+        },
+        {
+          "id": "opt_4_d",
+          "questionId": "q4",
+          "optionKey": "D",
+          "optionText": "Dijkstra's Algorithm"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "roundId": "round_01_quiz",
+      "questionText": "In the TCP protocol 3-way handshake, what is the sequence of control flags exchanged between client and server?",
+      "difficulty": "medium",
+      "points": 10,
+      "negativeMarking": 2,
+      "category": "Networking",
+      "correctOptionKey": "A",
+      "explanation": "Client sends SYN, server responds with SYN-ACK, client completes connection with ACK.",
+      "options": [
+        {
+          "id": "opt_5_a",
+          "questionId": "q5",
+          "optionKey": "A",
+          "optionText": "SYN -> SYN-ACK -> ACK"
+        },
+        {
+          "id": "opt_5_b",
+          "questionId": "q5",
+          "optionKey": "B",
+          "optionText": "ACK -> SYN -> SYN-ACK"
+        },
+        {
+          "id": "opt_5_c",
+          "questionId": "q5",
+          "optionKey": "C",
+          "optionText": "SYN -> ACK -> FIN"
+        },
+        {
+          "id": "opt_5_d",
+          "questionId": "q5",
+          "optionKey": "D",
+          "optionText": "RST -> SYN -> ACK"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "roundId": "round_01_quiz",
+      "questionText": "What problem occurs in multithreaded programming when two or more threads block forever waiting for each other to release locks?",
+      "difficulty": "easy",
+      "points": 10,
+      "negativeMarking": 2,
+      "category": "Operating Systems",
+      "correctOptionKey": "B",
+      "explanation": "Deadlock happens when Coffman conditions hold: mutual exclusion, hold-and-wait, no preemption, and circular wait.",
+      "options": [
+        {
+          "id": "opt_6_a",
+          "questionId": "q6",
+          "optionKey": "A",
+          "optionText": "Race Condition"
+        },
+        {
+          "id": "opt_6_b",
+          "questionId": "q6",
+          "optionKey": "B",
+          "optionText": "Deadlock"
+        },
+        {
+          "id": "opt_6_c",
+          "questionId": "q6",
+          "optionKey": "C",
+          "optionText": "Starvation"
+        },
+        {
+          "id": "opt_6_d",
+          "questionId": "q6",
+          "optionKey": "D",
+          "optionText": "Livelock"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "roundId": "round_01_quiz",
+      "questionText": "What is the maximum number of edges in a simple undirected planar graph with V >= 3 vertices?",
+      "difficulty": "hard",
+      "points": 10,
+      "negativeMarking": 2,
+      "category": "Discrete Math",
+      "correctOptionKey": "C",
+      "explanation": "By Euler's formula V - E + F = 2 and 2E >= 3F, substituting yields E <= 3V - 6.",
+      "options": [
+        {
+          "id": "opt_7_a",
+          "questionId": "q7",
+          "optionKey": "A",
+          "optionText": "V(V - 1) / 2"
+        },
+        {
+          "id": "opt_7_b",
+          "questionId": "q7",
+          "optionKey": "B",
+          "optionText": "2V - 4"
+        },
+        {
+          "id": "opt_7_c",
+          "questionId": "q7",
+          "optionKey": "C",
+          "optionText": "3V - 6"
+        },
+        {
+          "id": "opt_7_d",
+          "questionId": "q7",
+          "optionKey": "D",
+          "optionText": "3V - 2"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "roundId": "round_01_quiz",
+      "questionText": "Which HTTP status code is most appropriate for a request that is syntactically valid but cannot be processed due to semantic validation errors?",
+      "difficulty": "medium",
+      "points": 10,
+      "negativeMarking": 2,
+      "category": "Web Architecture",
+      "correctOptionKey": "D",
+      "explanation": "422 Unprocessable Entity is used when the server understands the content type and syntax, but cannot process the contained instructions due to semantic validation failure.",
+      "options": [
+        {
+          "id": "opt_8_a",
+          "questionId": "q8",
+          "optionKey": "A",
+          "optionText": "400 Bad Request"
+        },
+        {
+          "id": "opt_8_b",
+          "questionId": "q8",
+          "optionKey": "B",
+          "optionText": "404 Not Found"
+        },
+        {
+          "id": "opt_8_c",
+          "questionId": "q8",
+          "optionKey": "C",
+          "optionText": "500 Internal Error"
+        },
+        {
+          "id": "opt_8_d",
+          "questionId": "q8",
+          "optionKey": "D",
+          "optionText": "422 Unprocessable Entity"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "roundId": "round_01_quiz",
+      "questionText": "In a Red-Black Tree, what is the maximum possible height of a tree having N internal nodes?",
+      "difficulty": "hard",
+      "points": 10,
+      "negativeMarking": 2,
+      "category": "Data Structures",
+      "correctOptionKey": "B",
+      "explanation": "A Red-Black Tree guarantees that no path is more than twice as long as any other path, ensuring the height h <= 2 * log2(N + 1).",
+      "options": [
+        {
+          "id": "opt_9_a",
+          "questionId": "q9",
+          "optionKey": "A",
+          "optionText": "log2(N)"
+        },
+        {
+          "id": "opt_9_b",
+          "questionId": "q9",
+          "optionKey": "B",
+          "optionText": "2 * log2(N + 1)"
+        },
+        {
+          "id": "opt_9_c",
+          "questionId": "q9",
+          "optionKey": "C",
+          "optionText": "1.44 * log2(N)"
+        },
+        {
+          "id": "opt_9_d",
+          "questionId": "q9",
+          "optionKey": "D",
+          "optionText": "N / 2"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "roundId": "round_01_quiz",
+      "questionText": "Which algorithmic paradigm does the Karatsuba fast integer multiplication algorithm use?",
+      "difficulty": "medium",
+      "points": 10,
+      "negativeMarking": 2,
+      "category": "Algorithms",
+      "correctOptionKey": "C",
+      "explanation": "Karatsuba uses Divide and Conquer to reduce multiplying two n-digit numbers from 4 sub-multiplications to 3, achieving O(n^1.585) complexity.",
+      "options": [
+        {
+          "id": "opt_10_a",
+          "questionId": "q10",
+          "optionKey": "A",
+          "optionText": "Dynamic Programming"
+        },
+        {
+          "id": "opt_10_b",
+          "questionId": "q10",
+          "optionKey": "B",
+          "optionText": "Greedy Choice"
+        },
+        {
+          "id": "opt_10_c",
+          "questionId": "q10",
+          "optionKey": "C",
+          "optionText": "Divide and Conquer"
+        },
+        {
+          "id": "opt_10_d",
+          "questionId": "q10",
+          "optionKey": "D",
+          "optionText": "Branch and Bound"
+        }
+      ]
+    }
+  ],
+  "codingProblems": [
+    {
+      "id": "code_prob_1",
+      "roundId": "round_02_coding",
+      "title": "Target Subarray Difference Pair",
+      "slug": "target-subarray-difference-pair",
+      "difficulty": "easy",
+      "points": 100,
+      "timeLimitMs": 2000,
+      "memoryLimitMb": 128,
+      "description": "Given an integer array `nums` and an integer `k`, determine whether there exist two distinct indices `i` and `j` such that `nums[i] - nums[j] == k` and `abs(i - j) <= maxDist`.\nRead from standard input and output `true` or `false` to standard output.",
+      "inputFormat": "First line: integer N (size of nums)\nSecond line: N space-separated integers\nThird line: integer k (target difference)\nFourth line: integer maxDist",
+      "outputFormat": "Print 'true' if such a pair exists, otherwise 'false'.",
+      "constraints": "1 <= N <= 10^5\n-10^9 <= nums[i], k <= 10^9\n1 <= maxDist <= N",
+      "examples": [
+        {
+          "input": "5\n1 5 3 4 2\n2\n3",
+          "output": "true",
+          "explanation": "nums[1] (5) - nums[2] (3) == 2, and abs(1 - 2) = 1 <= 3. Pair satisfies condition."
+        },
+        {
+          "input": "4\n1 10 20 30\n5\n2",
+          "output": "false",
+          "explanation": "No two elements have difference of 5 within window 2."
+        }
+      ],
+      "starterCode": {
+        "python": "import sys\n\ndef solve():\n    input_data = sys.stdin.read().split()\n    if not input_data:\n        return\n    n = int(input_data[0])\n    nums = [int(x) for x in input_data[1:n+1]]\n    k = int(input_data[n+1])\n    max_dist = int(input_data[n+2])\n    \n    # Write your solution here:\n    # Check if there exist i, j with nums[i] - nums[j] == k and abs(i - j) <= max_dist\n    pos_map = {}\n    for i, val in enumerate(nums):\n        needed = val - k\n        if needed in pos_map and (i - pos_map[needed]) <= max_dist:\n            print(\"true\")\n            return\n        needed_rev = val + k\n        if needed_rev in pos_map and (i - pos_map[needed_rev]) <= max_dist:\n            print(\"true\")\n            return\n        pos_map[val] = i\n    print(\"false\")\n\nif __name__ == '__main__':\n    solve()\n",
+        "javascript": "const fs = require('fs');\n\nfunction solve() {\n  const input = fs.readFileSync(0, 'utf-8').trim().split(/\\s+/);\n  if (!input || input.length < 4) return;\n  const n = parseInt(input[0], 10);\n  const nums = [];\n  for (let i = 1; i <= n; i++) nums.push(parseInt(input[i], 10));\n  const k = parseInt(input[n + 1], 10);\n  const maxDist = parseInt(input[n + 2], 10);\n\n  // Write your solution here\n  const pos = new Map();\n  for (let i = 0; i < n; i++) {\n    const val = nums[i];\n    const need1 = val - k;\n    if (pos.has(need1) && (i - pos.get(need1)) <= maxDist) {\n      console.log('true');\n      return;\n    }\n    const need2 = val + k;\n    if (pos.has(need2) && (i - pos.get(need2)) <= maxDist) {\n      console.log('true');\n      return;\n    }\n    pos.set(val, i);\n  }\n  console.log('false');\n}\n\nsolve();\n",
+        "cpp": "#include <iostream>\n#include <vector>\n#include <unordered_map>\nusing namespace std;\n\nint main() {\n    ios_base::sync_with_stdio(false);\n    cin.tie(NULL);\n    int n;\n    if (!(cin >> n)) return 0;\n    vector<long long> nums(n);\n    for (int i = 0; i < n; i++) cin >> nums[i];\n    long long k, maxDist;\n    cin >> k >> maxDist;\n\n    unordered_map<long long, int> pos;\n    for (int i = 0; i < n; i++) {\n        long long val = nums[i];\n        if (pos.count(val - k) && (i - pos[val - k]) <= maxDist) {\n            cout << \"true\\n\";\n            return 0;\n        }\n        if (pos.count(val + k) && (i - pos[val + k]) <= maxDist) {\n            cout << \"true\\n\";\n            return 0;\n        }\n        pos[val] = i;\n    }\n    cout << \"false\\n\";\n    return 0;\n}\n"
+      },
+      "testCases": [
+        {
+          "id": "tc_1_1",
+          "problemId": "code_prob_1",
+          "input": "5\n1 5 3 4 2\n2\n3",
+          "expectedOutput": "true",
+          "isHidden": false,
+          "explanation": "5 - 3 = 2 with distance 1 <= 3"
+        },
+        {
+          "id": "tc_1_2",
+          "problemId": "code_prob_1",
+          "input": "4\n1 10 20 30\n5\n2",
+          "expectedOutput": "false",
+          "isHidden": false,
+          "explanation": "No difference 5 exists"
+        },
+        {
+          "id": "tc_1_3",
+          "problemId": "code_prob_1",
+          "input": "6\n10 20 100 40 50 15\n5\n1",
+          "expectedOutput": "true",
+          "isHidden": true,
+          "explanation": "15 and 10 difference is 5"
+        },
+        {
+          "id": "tc_1_4",
+          "problemId": "code_prob_1",
+          "input": "5\n1 2 4 8 16\n7\n1",
+          "expectedOutput": "true",
+          "isHidden": true,
+          "explanation": "8 - 1 = 7, but distance is 3 > 1; wait, 8 - 1 = 7 dist 3 > 1? Wait, 8 and 1 are 8-1=7 dist 3. Is there any adjacent diff 7? 8-1=7 dist 3; adjacent diffs are 1, 2, 4, 8. So diff 7 within dist 1 is false."
+        }
+      ]
+    },
+    {
+      "id": "code_prob_2",
+      "roundId": "round_02_coding",
+      "title": "Longest Mountain Subsequence",
+      "slug": "longest-mountain-subsequence",
+      "difficulty": "medium",
+      "points": 100,
+      "timeLimitMs": 2000,
+      "memoryLimitMb": 128,
+      "description": "Recall that an array `arr` is a mountain array if and only if:\n- `arr.length >= 3`\n- There exists some index `i` with `0 < i < arr.length - 1` such that:\n  - `arr[0] < arr[1] < ... < arr[i - 1] < arr[i]`\n  - `arr[i] > arr[i + 1] > ... > arr[arr.length - 1]`\n\nGiven an integer array `arr`, return the length of the longest subarray which is a mountain. If no mountain subarray exists, return `0`.",
+      "inputFormat": "First line: integer N\nSecond line: N space-separated integers",
+      "outputFormat": "Print the maximum length of a mountain subarray, or 0.",
+      "constraints": "1 <= N <= 10^5\n0 <= arr[i] <= 10^9",
+      "examples": [
+        {
+          "input": "7\n2 1 4 7 3 2 5",
+          "output": "5",
+          "explanation": "The largest mountain is [1, 4, 7, 3, 2] which has length 5."
+        },
+        {
+          "input": "3\n2 2 2",
+          "output": "0",
+          "explanation": "No mountain subarray exists."
+        }
+      ],
+      "starterCode": {
+        "python": "import sys\n\ndef longest_mountain():\n    lines = sys.stdin.read().split()\n    if not lines:\n        return\n    n = int(lines[0])\n    arr = [int(x) for x in lines[1:n+1]]\n    if n < 3:\n        print(0)\n        return\n\n    ans = 0\n    i = 1\n    while i < n - 1:\n        if arr[i - 1] < arr[i] > arr[i + 1]:\n            # i is a peak\n            left = i - 1\n            while left > 0 and arr[left - 1] < arr[left]:\n                left -= 1\n            right = i + 1\n            while right < n - 1 and arr[right] > arr[right + 1]:\n                right += 1\n            ans = max(ans, right - left + 1)\n            i = right\n        else:\n            i += 1\n    print(ans)\n\nif __name__ == '__main__':\n    longest_mountain()\n",
+        "javascript": "const fs = require('fs');\n\nfunction solve() {\n  const tokens = fs.readFileSync(0, 'utf-8').trim().split(/\\s+/);\n  if (!tokens || tokens.length < 2) return;\n  const n = parseInt(tokens[0], 10);\n  const arr = [];\n  for (let k = 1; k <= n; k++) arr.push(parseInt(tokens[k], 10));\n\n  if (n < 3) {\n    console.log(0);\n    return;\n  }\n\n  let ans = 0;\n  let i = 1;\n  while (i < n - 1) {\n    if (arr[i - 1] < arr[i] && arr[i] > arr[i + 1]) {\n      let left = i - 1;\n      while (left > 0 && arr[left - 1] < arr[left]) left--;\n      let right = i + 1;\n      while (right < n - 1 && arr[right] > arr[right + 1]) right++;\n      ans = Math.max(ans, right - left + 1);\n      i = right;\n    } else {\n      i++;\n    }\n  }\n  console.log(ans);\n}\n\nsolve();\n",
+        "cpp": "#include <iostream>\n#include <vector>\n#include <algorithm>\nusing namespace std;\n\nint main() {\n    int n;\n    if (!(cin >> n)) return 0;\n    vector<int> arr(n);\n    for (int i = 0; i < n; i++) cin >> arr[i];\n    if (n < 3) {\n        cout << 0 << \"\\n\";\n        return 0;\n    }\n    int ans = 0;\n    int i = 1;\n    while (i < n - 1) {\n        if (arr[i - 1] < arr[i] && arr[i] > arr[i + 1]) {\n            int left = i - 1;\n            while (left > 0 && arr[left - 1] < arr[left]) left--;\n            int right = i + 1;\n            while (right < n - 1 && arr[right] > arr[right + 1]) right++;\n            ans = max(ans, right - left + 1);\n            i = right;\n        } else {\n            i++;\n        }\n    }\n    cout << ans << \"\\n\";\n    return 0;\n}\n"
+      },
+      "testCases": [
+        {
+          "id": "tc_2_1",
+          "problemId": "code_prob_2",
+          "input": "7\n2 1 4 7 3 2 5",
+          "expectedOutput": "5",
+          "isHidden": false
+        },
+        {
+          "id": "tc_2_2",
+          "problemId": "code_prob_2",
+          "input": "3\n2 2 2",
+          "expectedOutput": "0",
+          "isHidden": false
+        },
+        {
+          "id": "tc_2_3",
+          "problemId": "code_prob_2",
+          "input": "8\n0 2 0 2 1 2 3 4",
+          "expectedOutput": "3",
+          "isHidden": true
+        }
+      ]
+    }
+  ],
+  "debuggingProblems": [
+    {
+      "id": "debug_prob_1",
+      "roundId": "round_03_debugging",
+      "title": "Fix Binary Search First Occurrence",
+      "slug": "fix-binary-search-first-occurrence",
+      "difficulty": "medium",
+      "points": 100,
+      "timeLimitMs": 2000,
+      "memoryLimitMb": 128,
+      "language": "python",
+      "description": "The developer wrote a function to find the first 0-based index of `target` in a sorted array containing duplicates.\nHowever, their code has critical off-by-one errors and loop conditions that cause infinite loops on duplicates, return the wrong index, or fail on elements absent from the array.\nCorrect the code so it returns the first index of `target`, or `-1` if not found.",
+      "expectedBehavior": "Input:\nFirst line: N (size of array)\nSecond line: N sorted integers\nThird line: target integer\n\nOutput:\nFirst index (0-based) where target appears, or -1.",
+      "buggyCode": "import sys\n\ndef find_first_index():\n    tokens = sys.stdin.read().split()\n    if not tokens:\n        return\n    n = int(tokens[0])\n    arr = [int(x) for x in tokens[1:n+1]]\n    target = int(tokens[n+1])\n\n    # BUGGY CODE:\n    low = 0\n    high = n # bug 1: out of bounds\n    ans = -1\n\n    while low < high: # bug 2: misses when low == high\n        mid = (low + high) // 2\n        if arr[mid] == target:\n            ans = mid\n            # bug 3: high is set to mid - 1 but misses when duplicate is at mid\n            high = mid - 1\n        elif arr[mid] < target:\n            low = mid # bug 4: causes infinite loop!\n        else:\n            high = mid\n\n    print(ans)\n\nif __name__ == '__main__':\n    find_first_index()\n",
+      "starterCode": {
+        "python": "import sys\n\ndef find_first_index():\n    tokens = sys.stdin.read().split()\n    if not tokens:\n        return\n    n = int(tokens[0])\n    arr = [int(x) for x in tokens[1:n+1]]\n    target = int(tokens[n+1])\n\n    low = 0\n    high = n - 1\n    ans = -1\n\n    while low <= high:\n        mid = (low + high) // 2\n        if arr[mid] == target:\n            ans = mid\n            high = mid - 1 # search left for first occurrence\n        elif arr[mid] < target:\n            low = mid + 1\n        else:\n            high = mid - 1\n\n    print(ans)\n\nif __name__ == '__main__':\n    find_first_index()\n",
+        "javascript": "const fs = require('fs');\n\nfunction solve() {\n  const tokens = fs.readFileSync(0, 'utf-8').trim().split(/\\s+/);\n  if (!tokens || tokens.length < 3) return;\n  const n = parseInt(tokens[0], 10);\n  const arr = [];\n  for (let i = 1; i <= n; i++) arr.push(parseInt(tokens[i], 10));\n  const target = parseInt(tokens[n + 1], 10);\n\n  let low = 0;\n  let high = n - 1;\n  let ans = -1;\n\n  while (low <= high) {\n    const mid = Math.floor((low + high) / 2);\n    if (arr[mid] === target) {\n      ans = mid;\n      high = mid - 1;\n    } else if (arr[mid] < target) {\n      low = mid + 1;\n    } else {\n      high = mid - 1;\n    }\n  }\n\n  console.log(ans);\n}\n\nsolve();\n"
+      },
+      "testCases": [
+        {
+          "id": "tc_debug_1_1",
+          "problemId": "debug_prob_1",
+          "input": "6\n1 2 2 2 3 5\n2",
+          "expectedOutput": "1",
+          "isHidden": false,
+          "explanation": "Target 2 first appears at index 1."
+        },
+        {
+          "id": "tc_debug_1_2",
+          "problemId": "debug_prob_1",
+          "input": "5\n10 20 30 40 50\n25",
+          "expectedOutput": "-1",
+          "isHidden": false,
+          "explanation": "25 is not in array."
+        },
+        {
+          "id": "tc_debug_1_3",
+          "problemId": "debug_prob_1",
+          "input": "7\n5 5 5 5 5 5 5\n5",
+          "expectedOutput": "0",
+          "isHidden": true,
+          "explanation": "First index of 5 is 0."
+        }
+      ]
+    },
+    {
+      "id": "debug_prob_2",
+      "roundId": "round_03_debugging",
+      "title": "Fix Max Subarray Sum with Negatives (Kadane)",
+      "slug": "fix-max-subarray-sum-kadane",
+      "difficulty": "medium",
+      "points": 100,
+      "timeLimitMs": 2000,
+      "memoryLimitMb": 128,
+      "language": "python",
+      "description": "The developer tried to implement Kadane's algorithm to find the maximum sum of a non-empty contiguous subarray.\nHowever, when all numbers in the array are negative, their implementation incorrectly outputs `0` instead of the maximum single negative element, because `max_so_far` and `curr` are initialized to 0.\nFix the code so it works properly for any array of integers (including all negative numbers).",
+      "expectedBehavior": "Input:\nFirst line: N\nSecond line: N integers\n\nOutput:\nMaximum non-empty contiguous subarray sum.",
+      "buggyCode": "import sys\n\ndef max_subarray():\n    tokens = sys.stdin.read().split()\n    if not tokens:\n        return\n    n = int(tokens[0])\n    nums = [int(x) for x in tokens[1:n+1]]\n\n    # BUGGY CODE:\n    # Fails when all elements are negative!\n    curr = 0\n    max_so_far = 0 # Bug: initialized to 0 instead of nums[0] or -inf\n\n    for x in nums:\n        curr += x\n        if curr < 0:\n            curr = 0 # Bug: resets to 0, losing negative max\n        if curr > max_so_far:\n            max_so_far = curr\n\n    print(max_so_far)\n\nif __name__ == '__main__':\n    max_subarray()\n",
+      "starterCode": {
+        "python": "import sys\n\ndef max_subarray():\n    tokens = sys.stdin.read().split()\n    if not tokens:\n        return\n    n = int(tokens[0])\n    nums = [int(x) for x in tokens[1:n+1]]\n\n    max_so_far = nums[0]\n    curr = nums[0]\n\n    for i in range(1, n):\n        curr = max(nums[i], curr + nums[i])\n        max_so_far = max(max_so_far, curr)\n\n    print(max_so_far)\n\nif __name__ == '__main__':\n    max_subarray()\n",
+        "javascript": "const fs = require('fs');\n\nfunction solve() {\n  const tokens = fs.readFileSync(0, 'utf-8').trim().split(/\\s+/);\n  if (!tokens || tokens.length < 2) return;\n  const n = parseInt(tokens[0], 10);\n  const nums = [];\n  for (let i = 1; i <= n; i++) nums.push(parseInt(tokens[i], 10));\n\n  let maxSoFar = nums[0];\n  let curr = nums[0];\n\n  for (let i = 1; i < n; i++) {\n    curr = Math.max(nums[i], curr + nums[i]);\n    maxSoFar = Math.max(maxSoFar, curr);\n  }\n\n  console.log(maxSoFar);\n}\n\nsolve();\n"
+      },
+      "testCases": [
+        {
+          "id": "tc_debug_2_1",
+          "problemId": "debug_prob_2",
+          "input": "5\n-5 -2 -8 -1 -4",
+          "expectedOutput": "-1",
+          "isHidden": false,
+          "explanation": "All negative, largest element is -1."
+        },
+        {
+          "id": "tc_debug_2_2",
+          "problemId": "debug_prob_2",
+          "input": "5\n1 -2 3 4 -1",
+          "expectedOutput": "7",
+          "isHidden": false,
+          "explanation": "3 + 4 = 7."
+        },
+        {
+          "id": "tc_debug_2_3",
+          "problemId": "debug_prob_2",
+          "input": "4\n-100 -200 -300 -400",
+          "expectedOutput": "-100",
+          "isHidden": true,
+          "explanation": "All negative values."
+        }
+      ]
+    }
+  ],
+  "submissions": [
+    {
+      "id": "sub_1792301412502_cwxwq",
+      "userId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "problemId": "code_prob_1",
+      "problemType": "coding",
+      "language": "python",
+      "code": "import sys\n\ndef solve():\n    lines = sys.stdin.read().split()\n    if not lines: return\n    n = int(lines[0])\n    nums = [int(x) for x in lines[1:n+1]]\n    k = int(lines[n+1])\n    max_d = int(lines[n+2])\n    pos = {}\n    for i, v in enumerate(nums):\n        if (v - k) in pos and (i - pos[v - k]) <= max_d:\n            print(\"true\")\n            return\n        if (v + k) in pos and (i - pos[v + k]) <= max_d:\n            print(\"true\")\n            return\n        pos[v] = i\n    print(\"false\")\n\nsolve()\n",
+      "status": "WRONG_ANSWER",
+      "score": 50,
+      "maxScore": 100,
+      "passedTestCases": 2,
+      "totalTestCases": 4,
+      "testCaseResults": [
+        {
+          "testCaseId": "tc_1_1",
+          "passed": true,
+          "executionTimeMs": 27,
+          "status": "ACCEPTED",
+          "input": "5\n1 5 3 4 2\n2\n3",
+          "expectedOutput": "true",
+          "actualOutput": "true\n"
+        },
+        {
+          "testCaseId": "tc_1_2",
+          "passed": true,
+          "executionTimeMs": 28,
+          "status": "ACCEPTED",
+          "input": "4\n1 10 20 30\n5\n2",
+          "expectedOutput": "false",
+          "actualOutput": "false\n"
+        },
+        {
+          "testCaseId": "tc_1_3",
+          "passed": false,
+          "executionTimeMs": 33,
+          "status": "WRONG_ANSWER",
+          "error": "WRONG_ANSWER"
+        },
+        {
+          "testCaseId": "tc_1_4",
+          "passed": false,
+          "executionTimeMs": 26,
+          "status": "WRONG_ANSWER",
+          "error": "WRONG_ANSWER"
+        }
+      ],
+      "executionTimeMs": 33,
+      "memoryKb": 14610,
+      "submittedAt": "2026-10-18T05:30:12.502Z"
+    },
+    {
+      "id": "sub_r1_1",
+      "userId": "user_part_01",
+      "roundId": "round_02_coding",
+      "problemId": "code_prob_1",
+      "problemType": "coding",
+      "language": "python",
+      "code": "# Optimal two-pointer\nprint(\"true\")",
+      "status": "ACCEPTED",
+      "score": 100,
+      "maxScore": 100,
+      "passedTestCases": 4,
+      "totalTestCases": 4,
+      "testCaseResults": [],
+      "executionTimeMs": 42,
+      "memoryKb": 14200,
+      "submittedAt": "2026-10-17T02:15:00Z"
+    },
+    {
+      "id": "sub_r1_2",
+      "userId": "user_part_01",
+      "roundId": "round_02_coding",
+      "problemId": "code_prob_2",
+      "problemType": "coding",
+      "language": "python",
+      "code": "# Peak finding\nprint(5)",
+      "status": "ACCEPTED",
+      "score": 100,
+      "maxScore": 100,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 65,
+      "memoryKb": 14500,
+      "submittedAt": "2026-10-17T02:35:00Z"
+    },
+    {
+      "id": "sub_r2_1",
+      "userId": "user_part_01",
+      "roundId": "round_03_debugging",
+      "problemId": "debug_prob_1",
+      "problemType": "debugging",
+      "language": "python",
+      "code": "# Corrected binary search",
+      "status": "ACCEPTED",
+      "score": 100,
+      "maxScore": 100,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 38,
+      "memoryKb": 13900,
+      "submittedAt": "2026-10-17T03:10:00Z"
+    },
+    {
+      "id": "sub_r2_2",
+      "userId": "user_part_01",
+      "roundId": "round_03_debugging",
+      "problemId": "debug_prob_2",
+      "problemType": "debugging",
+      "language": "python",
+      "code": "# Kadane fix for negatives",
+      "status": "ACCEPTED",
+      "score": 100,
+      "maxScore": 100,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 40,
+      "memoryKb": 14100,
+      "submittedAt": "2026-10-17T03:25:00Z"
+    },
+    {
+      "id": "sub_r3_1",
+      "userId": "user_part_01",
+      "roundId": "round_04_final",
+      "problemId": "final_prob_1",
+      "problemType": "final",
+      "language": "python",
+      "code": "# Two-pointer sliding window product",
+      "status": "ACCEPTED",
+      "score": 150,
+      "maxScore": 150,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 72,
+      "memoryKb": 15200,
+      "submittedAt": "2026-10-17T04:20:00Z"
+    },
+    {
+      "id": "sub_r3_2",
+      "userId": "user_part_01",
+      "roundId": "round_04_final",
+      "problemId": "final_prob_2",
+      "problemType": "final",
+      "language": "python",
+      "code": "# Kruskal algorithm MST",
+      "status": "ACCEPTED",
+      "score": 150,
+      "maxScore": 150,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 95,
+      "memoryKb": 16100,
+      "submittedAt": "2026-10-17T04:50:00Z"
+    },
+    {
+      "id": "sub_p1_1",
+      "userId": "user_part_02",
+      "roundId": "round_02_coding",
+      "problemId": "code_prob_1",
+      "problemType": "coding",
+      "language": "cpp",
+      "code": "// Hash map",
+      "status": "ACCEPTED",
+      "score": 100,
+      "maxScore": 100,
+      "passedTestCases": 4,
+      "totalTestCases": 4,
+      "testCaseResults": [],
+      "executionTimeMs": 15,
+      "memoryKb": 8900,
+      "submittedAt": "2026-10-17T02:18:00Z"
+    },
+    {
+      "id": "sub_p1_2",
+      "userId": "user_part_02",
+      "roundId": "round_02_coding",
+      "problemId": "code_prob_2",
+      "problemType": "coding",
+      "language": "cpp",
+      "code": "// Peak detection",
+      "status": "ACCEPTED",
+      "score": 100,
+      "maxScore": 100,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 22,
+      "memoryKb": 9200,
+      "submittedAt": "2026-10-17T02:40:00Z"
+    },
+    {
+      "id": "sub_p2_1",
+      "userId": "user_part_02",
+      "roundId": "round_03_debugging",
+      "problemId": "debug_prob_1",
+      "problemType": "debugging",
+      "language": "python",
+      "code": "# binary search",
+      "status": "ACCEPTED",
+      "score": 100,
+      "maxScore": 100,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 44,
+      "memoryKb": 14000,
+      "submittedAt": "2026-10-17T03:15:00Z"
+    },
+    {
+      "id": "sub_p2_2",
+      "userId": "user_part_02",
+      "roundId": "round_03_debugging",
+      "problemId": "debug_prob_2",
+      "problemType": "debugging",
+      "language": "python",
+      "code": "# Kadane",
+      "status": "ACCEPTED",
+      "score": 100,
+      "maxScore": 100,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 39,
+      "memoryKb": 13950,
+      "submittedAt": "2026-10-17T03:28:00Z"
+    },
+    {
+      "id": "sub_p3_1",
+      "userId": "user_part_02",
+      "roundId": "round_04_final",
+      "problemId": "final_prob_1",
+      "problemType": "final",
+      "language": "python",
+      "code": "# product less than k",
+      "status": "ACCEPTED",
+      "score": 150,
+      "maxScore": 150,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 80,
+      "memoryKb": 15400,
+      "submittedAt": "2026-10-17T04:25:00Z"
+    },
+    {
+      "id": "sub_p3_2",
+      "userId": "user_part_02",
+      "roundId": "round_04_final",
+      "problemId": "final_prob_2",
+      "problemType": "final",
+      "language": "python",
+      "code": "# MST with minor timeout on large graph",
+      "status": "ACCEPTED",
+      "score": 140,
+      "maxScore": 150,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 110,
+      "memoryKb": 16800,
+      "submittedAt": "2026-10-17T04:55:00Z"
+    },
+    {
+      "id": "sub_a1_1",
+      "userId": "user_part_03",
+      "roundId": "round_02_coding",
+      "problemId": "code_prob_1",
+      "problemType": "coding",
+      "language": "python",
+      "code": "# Hash set",
+      "status": "ACCEPTED",
+      "score": 100,
+      "maxScore": 100,
+      "passedTestCases": 4,
+      "totalTestCases": 4,
+      "testCaseResults": [],
+      "executionTimeMs": 45,
+      "memoryKb": 14100,
+      "submittedAt": "2026-10-17T02:20:00Z"
+    },
+    {
+      "id": "sub_a1_2",
+      "userId": "user_part_03",
+      "roundId": "round_02_coding",
+      "problemId": "code_prob_2",
+      "problemType": "coding",
+      "language": "python",
+      "code": "# Peak finding",
+      "status": "ACCEPTED",
+      "score": 100,
+      "maxScore": 100,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 60,
+      "memoryKb": 14200,
+      "submittedAt": "2026-10-17T02:45:00Z"
+    },
+    {
+      "id": "sub_a2_1",
+      "userId": "user_part_03",
+      "roundId": "round_03_debugging",
+      "problemId": "debug_prob_1",
+      "problemType": "debugging",
+      "language": "python",
+      "code": "# Binary search",
+      "status": "ACCEPTED",
+      "score": 100,
+      "maxScore": 100,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 42,
+      "memoryKb": 13900,
+      "submittedAt": "2026-10-17T03:20:00Z"
+    },
+    {
+      "id": "sub_a2_2",
+      "userId": "user_part_03",
+      "roundId": "round_03_debugging",
+      "problemId": "debug_prob_2",
+      "problemType": "debugging",
+      "language": "python",
+      "code": "# Kadane",
+      "status": "ACCEPTED",
+      "score": 100,
+      "maxScore": 100,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 41,
+      "memoryKb": 14000,
+      "submittedAt": "2026-10-17T03:30:00Z"
+    },
+    {
+      "id": "sub_a3_1",
+      "userId": "user_part_03",
+      "roundId": "round_04_final",
+      "problemId": "final_prob_1",
+      "problemType": "final",
+      "language": "python",
+      "code": "# Subarray product",
+      "status": "ACCEPTED",
+      "score": 150,
+      "maxScore": 150,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 85,
+      "memoryKb": 15600,
+      "submittedAt": "2026-10-17T04:30:00Z"
+    },
+    {
+      "id": "sub_n1_1",
+      "userId": "user_part_04",
+      "roundId": "round_02_coding",
+      "problemId": "code_prob_1",
+      "problemType": "coding",
+      "language": "python",
+      "code": "# Map solution",
+      "status": "ACCEPTED",
+      "score": 100,
+      "maxScore": 100,
+      "passedTestCases": 4,
+      "totalTestCases": 4,
+      "testCaseResults": [],
+      "executionTimeMs": 46,
+      "memoryKb": 14200,
+      "submittedAt": "2026-10-17T02:22:00Z"
+    },
+    {
+      "id": "sub_n1_2",
+      "userId": "user_part_04",
+      "roundId": "round_02_coding",
+      "problemId": "code_prob_2",
+      "problemType": "coding",
+      "language": "python",
+      "code": "# Peak",
+      "status": "ACCEPTED",
+      "score": 100,
+      "maxScore": 100,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 62,
+      "memoryKb": 14300,
+      "submittedAt": "2026-10-17T02:48:00Z"
+    },
+    {
+      "id": "sub_n2_1",
+      "userId": "user_part_04",
+      "roundId": "round_03_debugging",
+      "problemId": "debug_prob_1",
+      "problemType": "debugging",
+      "language": "python",
+      "code": "# binary search fix",
+      "status": "ACCEPTED",
+      "score": 100,
+      "maxScore": 100,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 40,
+      "memoryKb": 13950,
+      "submittedAt": "2026-10-17T03:22:00Z"
+    },
+    {
+      "id": "sub_n2_2",
+      "userId": "user_part_04",
+      "roundId": "round_03_debugging",
+      "problemId": "debug_prob_2",
+      "problemType": "debugging",
+      "language": "python",
+      "code": "# Kadane",
+      "status": "ACCEPTED",
+      "score": 100,
+      "maxScore": 100,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 41,
+      "memoryKb": 14000,
+      "submittedAt": "2026-10-17T03:32:00Z"
+    },
+    {
+      "id": "sub_n3_1",
+      "userId": "user_part_04",
+      "roundId": "round_04_final",
+      "problemId": "final_prob_1",
+      "problemType": "final",
+      "language": "python",
+      "code": "# Sliding window",
+      "status": "ACCEPTED",
+      "score": 150,
+      "maxScore": 150,
+      "passedTestCases": 3,
+      "totalTestCases": 3,
+      "testCaseResults": [],
+      "executionTimeMs": 82,
+      "memoryKb": 15300,
+      "submittedAt": "2026-10-17T04:32:00Z"
+    }
+  ],
+  "quizAttempts": [
+    {
+      "id": "qa_rahul",
+      "userId": "user_part_01",
+      "roundId": "round_01_quiz",
+      "startedAt": "2026-10-17T01:00:00Z",
+      "submittedAt": "2026-10-17T01:12:30Z",
+      "isSubmitted": true,
+      "answers": {
+        "q1": "C",
+        "q2": "B",
+        "q3": "A",
+        "q4": "D",
+        "q5": "A",
+        "q6": "B",
+        "q7": "C",
+        "q8": "D",
+        "q9": "B",
+        "q10": "C"
+      },
+      "totalQuestions": 10,
+      "attemptedCount": 10,
+      "correctCount": 10,
+      "wrongCount": 0,
+      "skippedCount": 0,
+      "score": 100,
+      "accuracy": 100,
+      "timeTakenSeconds": 750
+    },
+    {
+      "id": "qa_priya",
+      "userId": "user_part_02",
+      "roundId": "round_01_quiz",
+      "startedAt": "2026-10-17T01:10:00Z",
+      "submittedAt": "2026-10-17T01:21:40Z",
+      "isSubmitted": true,
+      "answers": {
+        "q1": "C",
+        "q2": "B",
+        "q3": "A",
+        "q4": "D",
+        "q5": "A",
+        "q6": "B",
+        "q7": "C",
+        "q8": "D",
+        "q9": "B",
+        "q10": "A"
+      },
+      "totalQuestions": 10,
+      "attemptedCount": 10,
+      "correctCount": 9,
+      "wrongCount": 1,
+      "skippedCount": 0,
+      "score": 88,
+      "accuracy": 90,
+      "timeTakenSeconds": 700
+    },
+    {
+      "id": "qa_aman",
+      "userId": "user_part_03",
+      "roundId": "round_01_quiz",
+      "startedAt": "2026-10-17T01:15:00Z",
+      "submittedAt": "2026-10-17T01:28:00Z",
+      "isSubmitted": true,
+      "answers": {
+        "q1": "C",
+        "q2": "B",
+        "q3": "A",
+        "q4": "D",
+        "q5": "A",
+        "q6": "B",
+        "q7": "A",
+        "q8": "D",
+        "q9": "B",
+        "q10": "C"
+      },
+      "totalQuestions": 10,
+      "attemptedCount": 10,
+      "correctCount": 9,
+      "wrongCount": 1,
+      "skippedCount": 0,
+      "score": 88,
+      "accuracy": 90,
+      "timeTakenSeconds": 780
+    },
+    {
+      "id": "qa_nitesh",
+      "userId": "user_part_04",
+      "roundId": "round_01_quiz",
+      "startedAt": "2026-10-17T01:20:00Z",
+      "submittedAt": "2026-10-17T01:31:00Z",
+      "isSubmitted": true,
+      "answers": {
+        "q1": "C",
+        "q2": "B",
+        "q3": "A",
+        "q4": "D",
+        "q5": "A",
+        "q6": "B",
+        "q7": "C",
+        "q8": "A",
+        "q9": "B",
+        "q10": "C"
+      },
+      "totalQuestions": 10,
+      "attemptedCount": 10,
+      "correctCount": 9,
+      "wrongCount": 1,
+      "skippedCount": 0,
+      "score": 88,
+      "accuracy": 90,
+      "timeTakenSeconds": 660
+    },
+    {
+      "id": "qa_user_part_demo_round_01_quiz_1792301431877",
+      "userId": "user_part_demo",
+      "roundId": "round_01_quiz",
+      "startedAt": "2026-10-18T05:29:31.877Z",
+      "submittedAt": "2026-10-18T05:30:31.877Z",
+      "isSubmitted": true,
+      "answers": {
+        "q1": "C",
+        "q3": "A",
+        "q4": "D"
+      },
+      "evaluatedAnswers": [
+        {
+          "questionId": "q1",
+          "selectedOptionKey": "C",
+          "isCorrect": true,
+          "pointsAwarded": 10
+        },
+        {
+          "questionId": "q2",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q3",
+          "selectedOptionKey": "A",
+          "isCorrect": true,
+          "pointsAwarded": 10
+        },
+        {
+          "questionId": "q4",
+          "selectedOptionKey": "D",
+          "isCorrect": true,
+          "pointsAwarded": 10
+        },
+        {
+          "questionId": "q5",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q6",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q7",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q8",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q9",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q10",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        }
+      ],
+      "totalQuestions": 10,
+      "attemptedCount": 3,
+      "correctCount": 3,
+      "wrongCount": 0,
+      "skippedCount": 7,
+      "score": 30,
+      "accuracy": 100,
+      "timeTakenSeconds": 60
+    },
+    {
+      "id": "qa_user_1792301660769_9m5w_round_01_quiz_1792301736084",
+      "userId": "user_1792301660769_9m5w",
+      "roundId": "round_01_quiz",
+      "startedAt": "2026-10-18T05:35:36.084Z",
+      "submittedAt": "2026-10-18T05:39:45.496Z",
+      "isSubmitted": true,
+      "answers": {
+        "q1": "C"
+      },
+      "evaluatedAnswers": [
+        {
+          "questionId": "q1",
+          "selectedOptionKey": "C",
+          "isCorrect": true,
+          "pointsAwarded": 10
+        },
+        {
+          "questionId": "q2",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q3",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q4",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q5",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q6",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q7",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q8",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q9",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q10",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        }
+      ],
+      "totalQuestions": 10,
+      "attemptedCount": 1,
+      "correctCount": 1,
+      "wrongCount": 0,
+      "skippedCount": 9,
+      "score": 10,
+      "accuracy": 100,
+      "timeTakenSeconds": 249
+    },
+    {
+      "id": "qa_user_1792303323209_zdcs_round_01_quiz_1792303459907",
+      "userId": "user_1792303323209_zdcs",
+      "roundId": "round_01_quiz",
+      "startedAt": "2026-10-18T06:04:19.907Z",
+      "submittedAt": "2026-10-18T06:04:57.463Z",
+      "isSubmitted": true,
+      "answers": {
+        "q1": "C"
+      },
+      "evaluatedAnswers": [
+        {
+          "questionId": "q1",
+          "selectedOptionKey": "C",
+          "isCorrect": true,
+          "pointsAwarded": 10
+        },
+        {
+          "questionId": "q2",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q3",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q4",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q5",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q6",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q7",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q8",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q9",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q10",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        }
+      ],
+      "totalQuestions": 10,
+      "attemptedCount": 1,
+      "correctCount": 1,
+      "wrongCount": 0,
+      "skippedCount": 9,
+      "score": 10,
+      "accuracy": 100,
+      "timeTakenSeconds": 38
+    },
+    {
+      "id": "qa_user_1792308424114_ypwn_round_01_quiz_1792309443339",
+      "userId": "user_1792308424114_ypwn",
+      "roundId": "round_01_quiz",
+      "startedAt": "2026-10-18T07:44:03.339Z",
+      "submittedAt": "2026-10-18T07:44:33.937Z",
+      "isSubmitted": true,
+      "answers": {
+        "q1": "C"
+      },
+      "evaluatedAnswers": [
+        {
+          "questionId": "q1",
+          "selectedOptionKey": "C",
+          "isCorrect": true,
+          "pointsAwarded": 10
+        },
+        {
+          "questionId": "q2",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q3",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q4",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q5",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q6",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q7",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q8",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q9",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        },
+        {
+          "questionId": "q10",
+          "selectedOptionKey": null,
+          "isCorrect": false,
+          "pointsAwarded": 0
+        }
+      ],
+      "totalQuestions": 10,
+      "attemptedCount": 1,
+      "correctCount": 1,
+      "wrongCount": 0,
+      "skippedCount": 9,
+      "score": 10,
+      "accuracy": 100,
+      "timeTakenSeconds": 31
+    }
+  ],
+  "qualifications": [
+    {
+      "id": "q_r1",
+      "userId": "user_part_01",
+      "roundId": "round_01_quiz",
+      "roundNumber": 1,
+      "status": "QUALIFIED",
+      "roundScore": 100,
+      "cumulativeScore": 100,
+      "evaluatedAt": "2026-10-17T01:30:00Z"
+    },
+    {
+      "id": "q_r2",
+      "userId": "user_part_01",
+      "roundId": "round_02_coding",
+      "roundNumber": 2,
+      "status": "QUALIFIED",
+      "roundScore": 200,
+      "cumulativeScore": 300,
+      "evaluatedAt": "2026-10-17T02:50:00Z"
+    },
+    {
+      "id": "q_r3",
+      "userId": "user_part_01",
+      "roundId": "round_03_debugging",
+      "roundNumber": 3,
+      "status": "QUALIFIED",
+      "roundScore": 200,
+      "cumulativeScore": 500,
+      "evaluatedAt": "2026-10-17T03:40:00Z"
+    },
+    {
+      "id": "q_r4",
+      "userId": "user_part_01",
+      "roundId": "round_04_final",
+      "roundNumber": 4,
+      "status": "QUALIFIED",
+      "roundScore": 300,
+      "cumulativeScore": 842,
+      "evaluatedAt": "2026-10-17T05:00:00Z"
+    },
+    {
+      "id": "q_p1",
+      "userId": "user_part_02",
+      "roundId": "round_01_quiz",
+      "roundNumber": 1,
+      "status": "QUALIFIED",
+      "roundScore": 88,
+      "cumulativeScore": 88,
+      "evaluatedAt": "2026-10-17T01:30:00Z"
+    },
+    {
+      "id": "q_p2",
+      "userId": "user_part_02",
+      "roundId": "round_02_coding",
+      "roundNumber": 2,
+      "status": "QUALIFIED",
+      "roundScore": 200,
+      "cumulativeScore": 288,
+      "evaluatedAt": "2026-10-17T02:50:00Z"
+    },
+    {
+      "id": "q_p3",
+      "userId": "user_part_02",
+      "roundId": "round_03_debugging",
+      "roundNumber": 3,
+      "status": "QUALIFIED",
+      "roundScore": 200,
+      "cumulativeScore": 488,
+      "evaluatedAt": "2026-10-17T03:40:00Z"
+    },
+    {
+      "id": "q_p4",
+      "userId": "user_part_02",
+      "roundId": "round_04_final",
+      "roundNumber": 4,
+      "status": "QUALIFIED",
+      "roundScore": 290,
+      "cumulativeScore": 815,
+      "evaluatedAt": "2026-10-17T05:00:00Z"
+    },
+    {
+      "id": "q_a1",
+      "userId": "user_part_03",
+      "roundId": "round_01_quiz",
+      "roundNumber": 1,
+      "status": "QUALIFIED",
+      "roundScore": 88,
+      "cumulativeScore": 88,
+      "evaluatedAt": "2026-10-17T01:30:00Z"
+    },
+    {
+      "id": "q_a2",
+      "userId": "user_part_03",
+      "roundId": "round_02_coding",
+      "roundNumber": 2,
+      "status": "QUALIFIED",
+      "roundScore": 200,
+      "cumulativeScore": 288,
+      "evaluatedAt": "2026-10-17T02:50:00Z"
+    },
+    {
+      "id": "q_a3",
+      "userId": "user_part_03",
+      "roundId": "round_03_debugging",
+      "roundNumber": 3,
+      "status": "QUALIFIED",
+      "roundScore": 200,
+      "cumulativeScore": 488,
+      "evaluatedAt": "2026-10-17T03:40:00Z"
+    },
+    {
+      "id": "q_a4",
+      "userId": "user_part_03",
+      "roundId": "round_04_final",
+      "roundNumber": 4,
+      "status": "QUALIFIED",
+      "roundScore": 150,
+      "cumulativeScore": 798,
+      "evaluatedAt": "2026-10-17T05:00:00Z"
+    },
+    {
+      "id": "q_n1",
+      "userId": "user_part_04",
+      "roundId": "round_01_quiz",
+      "roundNumber": 1,
+      "status": "QUALIFIED",
+      "roundScore": 88,
+      "cumulativeScore": 88,
+      "evaluatedAt": "2026-10-17T01:30:00Z"
+    },
+    {
+      "id": "q_n2",
+      "userId": "user_part_04",
+      "roundId": "round_02_coding",
+      "roundNumber": 2,
+      "status": "QUALIFIED",
+      "roundScore": 200,
+      "cumulativeScore": 288,
+      "evaluatedAt": "2026-10-17T02:50:00Z"
+    },
+    {
+      "id": "q_n3",
+      "userId": "user_part_04",
+      "roundId": "round_03_debugging",
+      "roundNumber": 3,
+      "status": "QUALIFIED",
+      "roundScore": 200,
+      "cumulativeScore": 488,
+      "evaluatedAt": "2026-10-17T03:40:00Z"
+    },
+    {
+      "id": "q_n4",
+      "userId": "user_part_04",
+      "roundId": "round_04_final",
+      "roundNumber": 4,
+      "status": "QUALIFIED",
+      "roundScore": 150,
+      "cumulativeScore": 780,
+      "evaluatedAt": "2026-10-17T05:00:00Z"
+    },
+    {
+      "id": "qual_user_part_demo_round_02_coding",
+      "userId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "roundNumber": 2,
+      "status": "QUALIFIED",
+      "roundScore": 50,
+      "cumulativeScore": 50,
+      "evaluatedAt": "2026-10-18T05:30:12.503Z"
+    },
+    {
+      "id": "qual_user_part_demo_round_01_quiz",
+      "userId": "user_part_demo",
+      "roundId": "round_01_quiz",
+      "roundNumber": 1,
+      "status": "PENDING",
+      "roundScore": 30,
+      "cumulativeScore": 30,
+      "evaluatedAt": "2026-10-18T05:30:31.878Z"
+    },
+    {
+      "id": "qual_user_1792301660769_9m5w_round_01_quiz",
+      "userId": "user_1792301660769_9m5w",
+      "roundId": "round_01_quiz",
+      "roundNumber": 1,
+      "status": "PENDING",
+      "roundScore": 10,
+      "cumulativeScore": 10,
+      "evaluatedAt": "2026-10-18T05:39:45.496Z"
+    },
+    {
+      "id": "qual_user_1792303323209_zdcs_round_01_quiz",
+      "userId": "user_1792303323209_zdcs",
+      "roundId": "round_01_quiz",
+      "roundNumber": 1,
+      "status": "PENDING",
+      "roundScore": 10,
+      "cumulativeScore": 10,
+      "evaluatedAt": "2026-10-18T06:04:57.463Z"
+    },
+    {
+      "id": "qual_user_1792308424114_ypwn_round_01_quiz",
+      "userId": "user_1792308424114_ypwn",
+      "roundId": "round_01_quiz",
+      "roundNumber": 1,
+      "status": "PENDING",
+      "roundScore": 10,
+      "cumulativeScore": 10,
+      "evaluatedAt": "2026-10-18T07:44:33.969Z"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann_3",
+      "title": "Sandboxed Execution Environment Online",
+      "message": "Python 3, Node.js, and C++ compilers are fully configured with 2.0s time limit and 128MB memory bounds.",
+      "type": "success",
+      "createdAt": "2026-10-17T02:00:00Z",
+      "createdBy": "Master Admin"
+    },
+    {
+      "id": "ann_2",
+      "title": "Round 1 Quiz Evaluation Active",
+      "message": "Remember that wrong answers incur a 2-point penalty. Do not guess blindly if unsure!",
+      "type": "warning",
+      "createdAt": "2026-10-17T01:00:00Z",
+      "createdBy": "Master Admin"
+    },
+    {
+      "id": "ann_1",
+      "title": "Welcome to CODEQUEST 2026!",
+      "message": "All rounds are live. Complete the Quiz Battle to qualify for the Coding Battle. Ensure your solutions pass all edge cases.",
+      "type": "info",
+      "createdAt": "2026-10-17T00:05:00Z",
+      "createdBy": "Master Admin"
+    }
+  ],
+  "auditLogs": [
+    {
+      "userId": "user_part_demo",
+      "userName": "Alex Chen",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as participant (alex@codequest.dev).",
+      "id": "log_1792310021587_uaye2",
+      "timestamp": "2026-10-18T07:53:41.587Z"
+    },
+    {
+      "userId": "user_admin_01",
+      "userName": "Master Admin",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as admin (admin@codequest.dev).",
+      "id": "log_1792309631770_gswwc",
+      "timestamp": "2026-10-18T07:47:11.770Z"
+    },
+    {
+      "userId": "user_1792308424114_ypwn",
+      "userName": "maya lin",
+      "action": "QUIZ_SUBMISSION",
+      "details": "Submitted Quiz Battle. Score: 10/100, Accuracy: 100%.",
+      "id": "log_1792309473985_bmipp",
+      "timestamp": "2026-10-18T07:44:33.985Z"
+    },
+    {
+      "userId": "user_1792308424114_ypwn",
+      "userName": "maya lin",
+      "action": "ROUND_START",
+      "details": "Started Round 1: Quiz Battle.",
+      "id": "log_1792309443355_ilola",
+      "timestamp": "2026-10-18T07:44:03.355Z"
+    },
+    {
+      "userId": "user_1792308424114_ypwn",
+      "userName": "maya lin",
+      "action": "USER_LOGIN",
+      "details": "User logged in (participant).",
+      "id": "log_1792309413722_2ncl1",
+      "timestamp": "2026-10-18T07:43:33.722Z"
+    },
+    {
+      "userId": "user_admin_01",
+      "userName": "Master Admin",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as admin (admin@codequest.dev).",
+      "id": "log_1792308543486_kkx8d",
+      "timestamp": "2026-10-18T07:29:03.486Z"
+    },
+    {
+      "userId": "user_1792308424114_ypwn",
+      "userName": "maya lin",
+      "action": "USER_LOGIN",
+      "details": "User logged in (participant).",
+      "id": "log_1792308532187_wcc5w",
+      "timestamp": "2026-10-18T07:28:52.187Z"
+    },
+    {
+      "userId": "user_admin_01",
+      "userName": "Master Admin",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as admin (admin@codequest.dev).",
+      "id": "log_1792308489049_uysov",
+      "timestamp": "2026-10-18T07:28:09.049Z"
+    },
+    {
+      "userId": "user_1792308424114_ypwn",
+      "userName": "maya lin",
+      "action": "USER_REGISTER",
+      "details": "New participant registered from IIT karachi.",
+      "id": "log_1792308424126_w1qr6",
+      "timestamp": "2026-10-18T07:27:04.126Z"
+    },
+    {
+      "userId": "user_part_demo",
+      "userName": "Alex Chen",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as participant (alex@codequest.dev).",
+      "id": "log_1792308241877_pboyd",
+      "timestamp": "2026-10-18T07:24:01.877Z"
+    },
+    {
+      "userId": "user_part_01",
+      "userName": "Rahul Sharma",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as participant (rahul@codequest.dev).",
+      "id": "log_1792308210379_92sda",
+      "timestamp": "2026-10-18T07:23:30.379Z"
+    },
+    {
+      "userId": "user_part_01",
+      "userName": "Rahul Sharma",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as participant (rahul@codequest.dev).",
+      "id": "log_1792308196455_9pp4z",
+      "timestamp": "2026-10-18T07:23:16.455Z"
+    },
+    {
+      "userId": "user_admin_01",
+      "userName": "Master Admin",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as admin (admin@codequest.dev).",
+      "id": "log_1792308190308_0vhq5",
+      "timestamp": "2026-10-18T07:23:10.308Z"
+    },
+    {
+      "userId": "user_admin_01",
+      "userName": "Master Admin",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as admin (admin@codequest.dev).",
+      "id": "log_1792308064418_bm1ve",
+      "timestamp": "2026-10-18T07:21:04.418Z"
+    },
+    {
+      "userId": "user_part_demo",
+      "userName": "Alex Chen",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as participant (alex@codequest.dev).",
+      "id": "log_1792307981722_uti8n",
+      "timestamp": "2026-10-18T07:19:41.722Z"
+    },
+    {
+      "userId": "user_part_demo",
+      "userName": "Alex Chen",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as participant (alex@codequest.dev).",
+      "id": "log_1792307848356_ytfij",
+      "timestamp": "2026-10-18T07:17:28.356Z"
+    },
+    {
+      "userId": "user_admin_01",
+      "userName": "Master Admin",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as admin (admin@codequest.dev).",
+      "id": "log_1792304126632_e8y11",
+      "timestamp": "2026-10-18T06:15:26.632Z"
+    },
+    {
+      "userId": "user_admin_01",
+      "userName": "Master Admin",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as admin (admin@codequest.dev).",
+      "id": "log_1792304120960_f2ytw",
+      "timestamp": "2026-10-18T06:15:20.960Z"
+    },
+    {
+      "userId": "user_admin_01",
+      "userName": "Master Admin",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as admin (admin@codequest.dev).",
+      "id": "log_1792304108607_apjrf",
+      "timestamp": "2026-10-18T06:15:08.607Z"
+    },
+    {
+      "userId": "user_admin_01",
+      "userName": "Master Admin",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as admin (admin@codequest.dev).",
+      "id": "log_1792304084728_ewtoh",
+      "timestamp": "2026-10-18T06:14:44.728Z"
+    },
+    {
+      "userId": "user_admin_01",
+      "userName": "Master Admin",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as admin (admin@codequest.dev).",
+      "id": "log_1792304043721_n7l2c",
+      "timestamp": "2026-10-18T06:14:03.721Z"
+    },
+    {
+      "userId": "user_admin_01",
+      "userName": "Master Admin",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as admin (admin@codequest.dev).",
+      "id": "log_1792304038745_qtgap",
+      "timestamp": "2026-10-18T06:13:58.745Z"
+    },
+    {
+      "userId": "user_admin_01",
+      "userName": "Master Admin",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as admin (admin@codequest.dev).",
+      "id": "log_1792304015500_574c1",
+      "timestamp": "2026-10-18T06:13:35.500Z"
+    },
+    {
+      "userId": "user_1792303323209_zdcs",
+      "userName": "Nitesh Kumar",
+      "action": "QUIZ_SUBMISSION",
+      "details": "Submitted Quiz Battle. Score: 10/100, Accuracy: 100%.",
+      "id": "log_1792303497464_uh3ss",
+      "timestamp": "2026-10-18T06:04:57.464Z"
+    },
+    {
+      "userId": "user_1792303323209_zdcs",
+      "userName": "Nitesh Kumar",
+      "action": "ROUND_START",
+      "details": "Started Round 1: Quiz Battle.",
+      "id": "log_1792303459908_3yrne",
+      "timestamp": "2026-10-18T06:04:19.908Z"
+    },
+    {
+      "userId": "user_1792303323209_zdcs",
+      "userName": "Nitesh Kumar",
+      "action": "USER_REGISTER",
+      "details": "New participant registered from DYPCET.",
+      "id": "log_1792303323209_eo7vk",
+      "timestamp": "2026-10-18T06:02:03.209Z"
+    },
+    {
+      "userId": "user_1792301660769_9m5w",
+      "userName": "nm",
+      "action": "USER_LOGIN",
+      "details": "User logged in (participant).",
+      "id": "log_1792303199648_tqm7q",
+      "timestamp": "2026-10-18T05:59:59.648Z"
+    },
+    {
+      "userId": "user_1792301660769_9m5w",
+      "userName": "nm",
+      "action": "QUIZ_SUBMISSION",
+      "details": "Submitted Quiz Battle. Score: 10/100, Accuracy: 100%.",
+      "id": "log_1792301985497_vdyde",
+      "timestamp": "2026-10-18T05:39:45.497Z"
+    },
+    {
+      "userId": "user_1792301660769_9m5w",
+      "userName": "nm",
+      "action": "USER_LOGIN",
+      "details": "User logged in (participant).",
+      "id": "log_1792301963482_zbb5x",
+      "timestamp": "2026-10-18T05:39:23.482Z"
+    },
+    {
+      "userId": "user_part_demo",
+      "userName": "Alex Chen",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as participant (alex@codequest.dev).",
+      "id": "log_1792301927146_q6i71",
+      "timestamp": "2026-10-18T05:38:47.146Z"
+    },
+    {
+      "userId": "user_part_01",
+      "userName": "Rahul Sharma",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as participant (rahul@codequest.dev).",
+      "id": "log_1792301924975_a868q",
+      "timestamp": "2026-10-18T05:38:44.975Z"
+    },
+    {
+      "userId": "user_admin_01",
+      "userName": "Master Admin",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as admin (admin@codequest.dev).",
+      "id": "log_1792301891113_86xg7",
+      "timestamp": "2026-10-18T05:38:11.113Z"
+    },
+    {
+      "userId": "user_1792301660769_9m5w",
+      "userName": "nm",
+      "action": "ROUND_START",
+      "details": "Started Round 1: Quiz Battle.",
+      "id": "log_1792301736085_pcqjd",
+      "timestamp": "2026-10-18T05:35:36.085Z"
+    },
+    {
+      "userId": "user_1792301660769_9m5w",
+      "userName": "nm",
+      "action": "USER_REGISTER",
+      "details": "New participant registered from ewhfuh.",
+      "id": "log_1792301660770_zolgm",
+      "timestamp": "2026-10-18T05:34:20.770Z"
+    },
+    {
+      "userId": "user_part_demo",
+      "userName": "Alex Chen",
+      "action": "QUIZ_SUBMISSION",
+      "details": "Submitted Quiz Battle. Score: 30/100, Accuracy: 100%.",
+      "id": "log_1792301431878_h17k3",
+      "timestamp": "2026-10-18T05:30:31.878Z"
+    },
+    {
+      "userId": "user_part_demo",
+      "userName": "Alex Chen",
+      "action": "PROBLEM_SUBMISSION",
+      "details": "Submitted problem \"Target Subarray Difference Pair\" (coding) in python. Status: WRONG_ANSWER, Score: 50/100.",
+      "id": "log_1792301412503_kaza6",
+      "timestamp": "2026-10-18T05:30:12.503Z"
+    },
+    {
+      "userId": "user_part_demo",
+      "userName": "Alex Chen",
+      "action": "DEMO_LOGIN",
+      "details": "Instant demo login as participant (alex@codequest.dev).",
+      "id": "log_1792301393692_tej7i",
+      "timestamp": "2026-10-18T05:29:53.692Z"
+    },
+    {
+      "id": "log_1",
+      "userId": "user_admin_01",
+      "userName": "Master Admin",
+      "action": "SYSTEM_BOOT",
+      "details": "CODEQUEST relational store initialized with 4 competitive rounds.",
+      "timestamp": "2026-10-17T00:00:00Z"
+    },
+    {
+      "id": "log_2",
+      "userId": "user_admin_01",
+      "userName": "Master Admin",
+      "action": "ROUND_ACTIVATION",
+      "details": "Rounds 1, 2, 3, and 4 scheduled and activated with automated sandbox runner.",
+      "timestamp": "2026-10-17T00:01:00Z"
+    }
+  ],
+  "isFinalResultsPublished": false,
+  "competitionSettings": {
+    "competitionName": "CODEQUEST 2026",
+    "isRegistrationOpen": true,
+    "requireApproval": false,
+    "autoAdvanceQualified": true
+  },
+  "auditEvents": [
+    {
+      "id": "ev_1792310353610_5b6aaa",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "eventType": "TAB_HIDDEN",
+      "severity": "critical",
+      "timestamp": "2026-10-18T07:59:13.610Z",
+      "metadata": {
+        "reason": "visibilitychange"
+      }
+    },
+    {
+      "id": "ev_1792310353601_4450a1",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "eventType": "WINDOW_BLUR",
+      "severity": "critical",
+      "timestamp": "2026-10-18T07:59:13.601Z",
+      "metadata": {}
+    },
+    {
+      "id": "ev_1792310350374_9da9db",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "eventType": "TAB_VISIBLE",
+      "severity": "info",
+      "timestamp": "2026-10-18T07:59:10.374Z",
+      "metadata": {}
+    },
+    {
+      "id": "ev_1792310350356_903997",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "eventType": "WINDOW_FOCUS",
+      "severity": "info",
+      "timestamp": "2026-10-18T07:59:10.356Z",
+      "metadata": {}
+    },
+    {
+      "id": "ev_1792310239285_6e9747",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "eventType": "TAB_HIDDEN",
+      "severity": "critical",
+      "timestamp": "2026-10-18T07:57:19.285Z",
+      "metadata": {
+        "reason": "visibilitychange"
+      }
+    },
+    {
+      "id": "ev_1792310160693_727cb9",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "eventType": "WINDOW_BLUR",
+      "severity": "critical",
+      "timestamp": "2026-10-18T07:56:00.697Z",
+      "metadata": {}
+    },
+    {
+      "id": "ev_1792310160612_9972ea",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "eventType": "WINDOW_FOCUS",
+      "severity": "info",
+      "timestamp": "2026-10-18T07:56:00.612Z",
+      "metadata": {}
+    },
+    {
+      "id": "ev_1792310085131_540bca",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "eventType": "WINDOW_BLUR",
+      "severity": "critical",
+      "timestamp": "2026-10-18T07:54:45.136Z",
+      "metadata": {}
+    },
+    {
+      "id": "ev_1792310081324_a09ccd",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "eventType": "WINDOW_FOCUS",
+      "severity": "info",
+      "timestamp": "2026-10-18T07:54:41.324Z",
+      "metadata": {}
+    },
+    {
+      "id": "ev_1792310079003_0c802e",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "eventType": "WINDOW_BLUR",
+      "severity": "critical",
+      "timestamp": "2026-10-18T07:54:39.003Z",
+      "metadata": {}
+    },
+    {
+      "id": "ev_1792310073450_5143c3",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "eventType": "WINDOW_FOCUS",
+      "severity": "info",
+      "timestamp": "2026-10-18T07:54:33.450Z",
+      "metadata": {}
+    },
+    {
+      "id": "ev_1792310062856_3f4b34",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "eventType": "WINDOW_BLUR",
+      "severity": "high",
+      "timestamp": "2026-10-18T07:54:22.856Z",
+      "metadata": {}
+    },
+    {
+      "id": "ev_1792310047911_5b580e",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "eventType": "WINDOW_FOCUS",
+      "severity": "info",
+      "timestamp": "2026-10-18T07:54:07.912Z",
+      "metadata": {}
+    },
+    {
+      "id": "ev_1792310040757_018bc9",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "eventType": "WINDOW_BLUR",
+      "severity": "high",
+      "timestamp": "2026-10-18T07:54:00.763Z",
+      "metadata": {}
+    },
+    {
+      "id": "ev_1792309506544_50a91c",
+      "participantId": "user_1792308424114_ypwn",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792309487709_41ab682f",
+      "eventType": "SYSTEM_CHECK_PASSED",
+      "severity": "info",
+      "timestamp": "2026-10-18T07:45:06.544Z",
+      "metadata": {
+        "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "pingMs": 141,
+        "isSimulatedCamera": true,
+        "timestamp": "2026-10-18T07:45:06.476Z"
+      }
+    },
+    {
+      "id": "ev_1792309506394_457945",
+      "participantId": "user_1792308424114_ypwn",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792309487709_41ab682f",
+      "eventType": "CONSENT_GRANTED",
+      "severity": "info",
+      "timestamp": "2026-10-18T07:45:06.396Z",
+      "metadata": {
+        "camera": true,
+        "mic": true,
+        "fullscreen": true
+      }
+    },
+    {
+      "id": "ev_1792309466192_3117c0",
+      "participantId": "user_1792308424114_ypwn",
+      "roundId": "round_01_quiz",
+      "sessionId": "psess_1792309443448_82ce93bd",
+      "eventType": "SYSTEM_CHECK_PASSED",
+      "severity": "info",
+      "timestamp": "2026-10-18T07:44:26.192Z",
+      "metadata": {
+        "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "pingMs": 17,
+        "isSimulatedCamera": true,
+        "timestamp": "2026-10-18T07:44:26.097Z"
+      }
+    },
+    {
+      "id": "ev_1792309466030_8a2b98",
+      "participantId": "user_1792308424114_ypwn",
+      "roundId": "round_01_quiz",
+      "sessionId": "psess_1792309443448_82ce93bd",
+      "eventType": "CONSENT_GRANTED",
+      "severity": "info",
+      "timestamp": "2026-10-18T07:44:26.030Z",
+      "metadata": {
+        "camera": true,
+        "mic": true,
+        "fullscreen": true
+      }
+    },
+    {
+      "id": "ev_1792308266645_3dcbff",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "eventType": "SYSTEM_CHECK_PASSED",
+      "severity": "info",
+      "timestamp": "2026-10-18T07:24:26.645Z",
+      "metadata": {
+        "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+        "pingMs": 20,
+        "isSimulatedCamera": true,
+        "timestamp": "2026-10-18T07:24:26.550Z"
+      }
+    },
+    {
+      "id": "ev_1792308266510_03d8da",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "eventType": "CONSENT_GRANTED",
+      "severity": "info",
+      "timestamp": "2026-10-18T07:24:26.511Z",
+      "metadata": {
+        "camera": true,
+        "mic": true,
+        "fullscreen": true
+      }
+    },
+    {
+      "id": "aev_1",
+      "participantId": "user_part_01",
+      "roundId": "round_01_quiz",
+      "sessionId": "psess_demo_rahul",
+      "eventType": "SYSTEM_CHECK_PASSED",
+      "severity": "info",
+      "timestamp": "2026-10-17T00:59:45Z",
+      "metadata": {
+        "camera": true,
+        "mic": true,
+        "fullscreen": true
+      }
+    },
+    {
+      "id": "aev_2",
+      "participantId": "user_part_01",
+      "roundId": "round_01_quiz",
+      "sessionId": "psess_demo_rahul",
+      "eventType": "FULLSCREEN_ENTER",
+      "severity": "info",
+      "timestamp": "2026-10-17T01:00:00Z"
+    },
+    {
+      "id": "aev_3",
+      "participantId": "user_part_02",
+      "roundId": "round_01_quiz",
+      "sessionId": "psess_demo_priya",
+      "eventType": "TAB_HIDDEN",
+      "severity": "high",
+      "timestamp": "2026-10-17T01:08:12Z",
+      "metadata": {
+        "warningCount": 1
+      }
+    },
+    {
+      "id": "aev_4",
+      "participantId": "user_part_02",
+      "roundId": "round_01_quiz",
+      "sessionId": "psess_demo_priya",
+      "eventType": "TAB_VISIBLE",
+      "severity": "info",
+      "timestamp": "2026-10-17T01:08:16Z"
+    },
+    {
+      "id": "aev_5",
+      "participantId": "user_part_03",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_demo_aman",
+      "eventType": "COPY_ATTEMPT",
+      "severity": "medium",
+      "timestamp": "2026-10-17T02:15:30Z",
+      "metadata": {
+        "target": "problem_description"
+      }
+    },
+    {
+      "id": "aev_6",
+      "participantId": "user_part_03",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_demo_aman",
+      "eventType": "TAB_HIDDEN",
+      "severity": "high",
+      "timestamp": "2026-10-17T02:22:10Z",
+      "metadata": {
+        "warningCount": 1
+      }
+    },
+    {
+      "id": "aev_7",
+      "participantId": "user_part_04",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_demo_nitesh",
+      "eventType": "PASTE_ATTEMPT",
+      "severity": "high",
+      "timestamp": "2026-10-17T02:25:00Z",
+      "metadata": {
+        "charLength": 142
+      }
+    },
+    {
+      "id": "aev_8",
+      "participantId": "user_part_04",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_demo_nitesh",
+      "eventType": "TAB_HIDDEN",
+      "severity": "critical",
+      "timestamp": "2026-10-17T02:30:15Z",
+      "metadata": {
+        "warningCount": 4,
+        "thresholdExceeded": true
+      }
+    },
+    {
+      "id": "aev_9",
+      "participantId": "user_part_04",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_demo_nitesh",
+      "eventType": "SUSPICIOUS_SIMILARITY",
+      "severity": "critical",
+      "timestamp": "2026-10-17T02:45:00Z",
+      "metadata": {
+        "similarityScore": 87.5,
+        "comparedWith": "Aman Verma"
+      }
+    }
+  ],
+  "proctoringSnapshots": [
+    {
+      "id": "snap_1792310303972_6206cb",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "imageUrl": "data:image/jpeg;base64,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",
+      "status": "normal",
+      "capturedAt": "2026-10-18T07:58:23.972Z",
+      "metadata": {
+        "faceDetected": true,
+        "simulated": true
+      }
+    },
+    {
+      "id": "snap_1792310222876_81d918",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "imageUrl": "data:image/jpeg;base64,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",
+      "status": "normal",
+      "capturedAt": "2026-10-18T07:57:02.876Z",
+      "metadata": {
+        "faceDetected": true,
+        "simulated": true
+      }
+    },
+    {
+      "id": "snap_1792310150785_1c89b9",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "imageUrl": "data:image/jpeg;base64,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",
+      "status": "normal",
+      "capturedAt": "2026-10-18T07:55:50.785Z",
+      "metadata": {
+        "faceDetected": true,
+        "simulated": true
+      }
+    },
+    {
+      "id": "snap_1792308327566_93239e",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_1792308248354_3fe04946",
+      "imageUrl": "data:image/jpeg;base64,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",
+      "status": "normal",
+      "capturedAt": "2026-10-18T07:25:27.566Z",
+      "metadata": {
+        "faceDetected": true,
+        "simulated": true
+      }
+    },
+    {
+      "id": "snap_rahul_1",
+      "participantId": "user_part_01",
+      "roundId": "round_01_quiz",
+      "sessionId": "psess_demo_rahul",
+      "imageUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=200&auto=format&fit=crop&q=80",
+      "status": "normal",
+      "capturedAt": "2026-10-17T01:05:00Z",
+      "metadata": {
+        "faceDetected": true
+      }
+    },
+    {
+      "id": "snap_nitesh_1",
+      "participantId": "user_part_04",
+      "roundId": "round_02_coding",
+      "sessionId": "psess_demo_nitesh",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=80",
+      "status": "flagged",
+      "capturedAt": "2026-10-17T02:30:15Z",
+      "metadata": {
+        "faceDetected": true,
+        "notes": "Captured during tab switch warning threshold trigger"
+      }
+    }
+  ],
+  "proctoringSessions": [
+    {
+      "id": "psess_1792309487709_41ab682f",
+      "participantId": "user_1792308424114_ypwn",
+      "participantName": "maya lin",
+      "participantEmail": "shivamnikam6969@gmail.com",
+      "organization": "IIT karachi",
+      "roundId": "round_02_coding",
+      "roundName": "Coding Battle",
+      "startedAt": "2026-10-18T07:44:47.709Z",
+      "lastActiveAt": "2026-10-18T07:45:06.544Z",
+      "cameraActive": true,
+      "microphoneActive": true,
+      "fullscreenActive": true,
+      "tabSwitchCount": 0,
+      "copyPasteAttemptCount": 0,
+      "fullscreenExitCount": 0,
+      "violationScore": 0,
+      "status": "NORMAL",
+      "isLocked": false,
+      "autoSubmitted": false,
+      "flaggedForReview": false
+    },
+    {
+      "id": "psess_1792309443448_82ce93bd",
+      "participantId": "user_1792308424114_ypwn",
+      "participantName": "maya lin",
+      "participantEmail": "shivamnikam6969@gmail.com",
+      "organization": "IIT karachi",
+      "roundId": "round_01_quiz",
+      "roundName": "Quiz Battle",
+      "startedAt": "2026-10-18T07:44:03.448Z",
+      "lastActiveAt": "2026-10-18T07:44:26.192Z",
+      "cameraActive": true,
+      "microphoneActive": true,
+      "fullscreenActive": true,
+      "tabSwitchCount": 0,
+      "copyPasteAttemptCount": 0,
+      "fullscreenExitCount": 0,
+      "violationScore": 0,
+      "status": "NORMAL",
+      "isLocked": false,
+      "autoSubmitted": false,
+      "flaggedForReview": false
+    },
+    {
+      "id": "psess_1792308248354_3fe04946",
+      "participantId": "user_part_demo",
+      "participantName": "Alex Chen",
+      "participantEmail": "alex@codequest.dev",
+      "organization": "MIT Computer Science & AI Lab",
+      "roundId": "round_02_coding",
+      "roundName": "Coding Battle",
+      "startedAt": "2026-10-18T07:24:08.354Z",
+      "lastActiveAt": "2026-10-18T07:59:13.610Z",
+      "cameraActive": true,
+      "microphoneActive": true,
+      "fullscreenActive": true,
+      "tabSwitchCount": 8,
+      "copyPasteAttemptCount": 0,
+      "fullscreenExitCount": 0,
+      "violationScore": 120,
+      "status": "WARNING",
+      "isLocked": false,
+      "autoSubmitted": false,
+      "flaggedForReview": false
+    },
+    {
+      "id": "psess_demo_rahul",
+      "participantId": "user_part_01",
+      "participantName": "Rahul Sharma",
+      "participantEmail": "rahul@codequest.dev",
+      "organization": "Indian Institute of Technology, Bombay",
+      "roundId": "round_01_quiz",
+      "roundName": "Quiz Battle",
+      "startedAt": "2026-10-17T01:00:00Z",
+      "lastActiveAt": "2026-10-17T01:14:30Z",
+      "cameraActive": true,
+      "microphoneActive": true,
+      "fullscreenActive": true,
+      "tabSwitchCount": 0,
+      "copyPasteAttemptCount": 0,
+      "fullscreenExitCount": 0,
+      "violationScore": 0,
+      "status": "NORMAL",
+      "isLocked": false,
+      "autoSubmitted": false,
+      "flaggedForReview": false
+    },
+    {
+      "id": "psess_demo_priya",
+      "participantId": "user_part_02",
+      "participantName": "Priya Patel",
+      "participantEmail": "priya@codequest.dev",
+      "organization": "BITS Pilani",
+      "roundId": "round_01_quiz",
+      "roundName": "Quiz Battle",
+      "startedAt": "2026-10-17T01:05:00Z",
+      "lastActiveAt": "2026-10-17T01:19:10Z",
+      "cameraActive": true,
+      "microphoneActive": true,
+      "fullscreenActive": true,
+      "tabSwitchCount": 1,
+      "copyPasteAttemptCount": 0,
+      "fullscreenExitCount": 0,
+      "violationScore": 15,
+      "status": "NORMAL",
+      "isLocked": false,
+      "autoSubmitted": false,
+      "flaggedForReview": false
+    },
+    {
+      "id": "psess_demo_aman",
+      "participantId": "user_part_03",
+      "participantName": "Aman Verma",
+      "participantEmail": "aman@codequest.dev",
+      "organization": "Stanford University",
+      "roundId": "round_02_coding",
+      "roundName": "Coding Battle",
+      "startedAt": "2026-10-17T02:00:00Z",
+      "lastActiveAt": "2026-10-17T02:44:00Z",
+      "cameraActive": true,
+      "microphoneActive": true,
+      "fullscreenActive": true,
+      "tabSwitchCount": 2,
+      "copyPasteAttemptCount": 1,
+      "fullscreenExitCount": 1,
+      "violationScore": 45,
+      "status": "WARNING",
+      "isLocked": false,
+      "autoSubmitted": false,
+      "flaggedForReview": false
+    },
+    {
+      "id": "psess_demo_nitesh",
+      "participantId": "user_part_04",
+      "participantName": "Nitesh Kumar",
+      "participantEmail": "nitesh@codequest.dev",
+      "organization": "National Institute of Technology",
+      "roundId": "round_02_coding",
+      "roundName": "Coding Battle",
+      "startedAt": "2026-10-17T02:00:00Z",
+      "lastActiveAt": "2026-10-17T02:44:00Z",
+      "cameraActive": true,
+      "microphoneActive": true,
+      "fullscreenActive": false,
+      "tabSwitchCount": 4,
+      "copyPasteAttemptCount": 3,
+      "fullscreenExitCount": 2,
+      "violationScore": 95,
+      "status": "REVIEW_REQUIRED",
+      "isLocked": false,
+      "autoSubmitted": false,
+      "flaggedForReview": true,
+      "adminNotes": "Repeated tab switching, clipboard paste bursts and code similarity anomaly flagged."
+    }
+  ],
+  "similarityResults": [
+    {
+      "id": "sim_seed_01",
+      "problemId": "prob_cp_1",
+      "problemTitle": "Optimal Substring Compression",
+      "roundId": "round_02_coding",
+      "submissionId1": "sub_aman_01",
+      "participantId1": "user_part_03",
+      "participantName1": "Aman Verma",
+      "submissionId2": "sub_nitesh_01",
+      "participantId2": "user_part_04",
+      "participantName2": "Nitesh Kumar",
+      "similarityScore": 87.5,
+      "status": "HIGHLY_SUSPICIOUS",
+      "matchingSnippets": [
+        "def compress(s: str) -> str:\n    if not s: return \"\"\n    runs = []\n    curr, cnt = s[0], 1\n    for ch in s[1:]:",
+        "while j < len(s) and s[j] == s[i]:\n    count += 1\n    j += 1"
+      ],
+      "createdAt": "2026-10-17T02:45:00Z",
+      "reviewedByAdmin": false
+    }
+  ],
+  "consentRecords": [
+    {
+      "id": "consent_rahul_r1",
+      "participantId": "user_part_01",
+      "roundId": "round_01_quiz",
+      "agreedAt": "2026-10-17T00:59:30Z",
+      "policyVersion": "2026.1",
+      "cameraGranted": true,
+      "micGranted": true,
+      "fullscreenGranted": true
+    },
+    {
+      "id": "consent_priya_r1",
+      "participantId": "user_part_02",
+      "roundId": "round_01_quiz",
+      "agreedAt": "2026-10-17T01:04:30Z",
+      "policyVersion": "2026.1",
+      "cameraGranted": true,
+      "micGranted": true,
+      "fullscreenGranted": true
+    },
+    {
+      "id": "consent_1792308266467_677ee8",
+      "participantId": "user_part_demo",
+      "roundId": "round_02_coding",
+      "agreedAt": "2026-10-18T07:24:26.467Z",
+      "policyVersion": "2026.1",
+      "cameraGranted": true,
+      "micGranted": true,
+      "fullscreenGranted": true
+    },
+    {
+      "id": "consent_1792309465991_c34516",
+      "participantId": "user_1792308424114_ypwn",
+      "roundId": "round_01_quiz",
+      "agreedAt": "2026-10-18T07:44:25.991Z",
+      "policyVersion": "2026.1",
+      "cameraGranted": true,
+      "micGranted": true,
+      "fullscreenGranted": true
+    },
+    {
+      "id": "consent_1792309506366_17332c",
+      "participantId": "user_1792308424114_ypwn",
+      "roundId": "round_02_coding",
+      "agreedAt": "2026-10-18T07:45:06.366Z",
+      "policyVersion": "2026.1",
+      "cameraGranted": true,
+      "micGranted": true,
+      "fullscreenGranted": true
+    }
+  ],
+  "proctoringViolationWeights": {
+    "tabSwitch": 15,
+    "fullscreenExit": 20,
+    "copyAttempt": 15,
+    "pasteAttempt": 20,
+    "cameraLost": 25,
+    "micLost": 15,
+    "suspiciousSimilarity": 50
+  },
+  "aiConfig": {
+    "enabled": true,
+    "model": "gemini-1.5-pro",
+    "allowInCompetition": true,
+    "defaultMode": "competition",
+    "systemPrompt": "You are CODEQUEST AI Assistant, an elite competitive programming mentor and Socratic tutor."
+  }
+}
